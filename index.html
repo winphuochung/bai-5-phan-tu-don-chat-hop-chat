@@ -1847,7 +1847,7 @@
   }
 ];
 
-        let GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbx_PLACEHOLDER_FOR_TEACHER_SHEET/exec";
+        let GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbxevY7vhagqdOp1onoVC9EI_nj4WV0bj0BBSrjNW04NfsmxxdXiE-qR3j8_i_Z2yTGb/exec";
 
         let currentUser = { name: "", className: "" };
         let activeQuizQuestions = [...QUIZ_DATA];
@@ -2532,8 +2532,8 @@
                 alert("Đã lưu URL Google Sheet thành công! Từ bây giờ kết quả làm bài của học sinh sẽ tự động gửi về bảng tính này.");
             } else {
                 localStorage.removeItem("khtn7_sheets_url");
-                GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbx_PLACEHOLDER_FOR_TEACHER_SHEET/exec";
-                alert("Đã chuyển về URL mặc định (Chế độ mô phỏng an toàn).");
+                GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbxevY7vhagqdOp1onoVC9EI_nj4WV0bj0BBSrjNW04NfsmxxdXiE-qR3j8_i_Z2yTGb/exec";
+                alert("Đã khôi phục URL Google Sheet chính thức của Thầy.");
             }
             closeSheetConfigModal();
         }
