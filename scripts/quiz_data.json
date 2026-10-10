@@ -1,0 +1,748 @@
+[
+  {
+    "id": 1,
+    "type": "mcq",
+    "type_label": "Trắc nghiệm 1 lựa chọn",
+    "question": "Đơn chất là chất được tạo nên từ bao nhiêu nguyên tố hóa học?",
+    "options": [
+      "A. Chỉ từ 1 nguyên tố hóa học",
+      "B. Từ 2 nguyên tố hóa học trở lên",
+      "C. Từ ít nhất 3 nguyên tố hóa học",
+      "D. Vô số nguyên tố hóa học"
+    ],
+    "answer": 0,
+    "explanation": "Theo SGK KHTN 7, đơn chất là những chất được tạo nên chỉ từ một nguyên tố hoá học (ví dụ: Cu, O₂, N₂, He...)."
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "type_label": "Trắc nghiệm 1 lựa chọn",
+    "question": "Chất nào sau đây là hợp chất?",
+    "options": [
+      "A. Khí oxygen (O₂)",
+      "B. Khí hydrogen (H₂)",
+      "C. Nước (H₂O)",
+      "D. Kim loại đồng (Cu)"
+    ],
+    "answer": 2,
+    "explanation": "Nước (H₂O) tạo nên từ 2 nguyên tố hoá học là Hydrogen (H) và Oxygen (O) nên là hợp chất. Các chất còn lại chỉ tạo từ 1 nguyên tố nên là đơn chất."
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "type_label": "Trắc nghiệm 1 lựa chọn",
+    "question": "Hạt đại diện cho chất, gồm một số nguyên tử liên kết với nhau và thể hiện đầy đủ tính chất hoá học của chất được gọi là gì?",
+    "options": [
+      "A. Hạt electron",
+      "B. Nguyên tử",
+      "C. Hạt proton",
+      "D. Phân tử"
+    ],
+    "answer": 3,
+    "explanation": "Phân tử là hạt đại diện cho chất, gồm một số nguyên tử liên kết với nhau và thể hiện đầy đủ tính chất hoá học của chất."
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "type_label": "Trắc nghiệm 1 lựa chọn",
+    "question": "Khối lượng phân tử của nước (H₂O) là bao nhiêu? (Biết H = 1 amu, O = 16 amu)",
+    "options": [
+      "A. 17 amu",
+      "B. 18 amu",
+      "C. 32 amu",
+      "D. 20 amu"
+    ],
+    "answer": 1,
+    "explanation": "Khối lượng phân tử của nước = 2 × 1 (H) + 16 (O) = 18 amu."
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "type_label": "Trắc nghiệm 1 lựa chọn",
+    "question": "Than chì và kim cương đều được tạo nên từ cùng một nguyên tố hoá học nào?",
+    "options": [
+      "A. Carbon (C)",
+      "B. Silicon (Si)",
+      "C. Phosphorus (P)",
+      "D. Nitrogen (N)"
+    ],
+    "answer": 0,
+    "explanation": "Than chì, kim cương và than gỗ là các dạng đơn chất khác nhau (dạng thù hình) được tạo nên từ cùng một nguyên tố Carbon (C)."
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "type_label": "Trắc nghiệm 1 lựa chọn",
+    "question": "Khí hiếm nào sau đây tồn tại ở dạng đơn nguyên tử ở điều kiện thường?",
+    "options": [
+      "A. Helium (He)",
+      "B. Oxygen (O₂)",
+      "C. Hydrogen (H₂)",
+      "D. Chlorine (Cl₂)"
+    ],
+    "answer": 0,
+    "explanation": "Các khí hiếm như Helium (He), Neon (Ne), Argon (Ar)... tồn tại ở dạng hạt chỉ gồm 1 nguyên tử riêng rẽ trong điều kiện thường."
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "type_label": "Trắc nghiệm 1 lựa chọn",
+    "question": "Một phân tử khí methane gồm 1 nguyên tử Carbon liên kết với 4 nguyên tử Hydrogen (CH₄). Khối lượng phân tử methane là bao nhiêu? (Biết C = 12 amu, H = 1 amu)",
+    "options": [
+      "A. 13 amu",
+      "B. 16 amu",
+      "C. 14 amu",
+      "D. 28 amu"
+    ],
+    "answer": 1,
+    "explanation": "Khối lượng phân tử methane (CH₄) = 12 + (4 × 1) = 16 amu."
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "type_label": "Trắc nghiệm 1 lựa chọn",
+    "question": "Kim loại duy nhất tồn tại ở thể lỏng ở điều kiện thường là kim loại nào?",
+    "options": [
+      "A. Đồng (Copper)",
+      "B. Sắt (Iron)",
+      "C. Thuỷ ngân (Mercury)",
+      "D. Nhôm (Aluminium)"
+    ],
+    "answer": 2,
+    "explanation": "Thuỷ ngân (Mercury, kí hiệu Hg) là kim loại duy nhất ở thể lỏng ở điều kiện thường."
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "type_label": "Trắc nghiệm 1 lựa chọn",
+    "question": "Khí carbon dioxide (CO₂) gồm 1 nguyên tử Carbon và 2 nguyên tử Oxygen. Khối lượng phân tử CO₂ là bao nhiêu? (C = 12 amu, O = 16 amu)",
+    "options": [
+      "A. 28 amu",
+      "B. 32 amu",
+      "C. 44 amu",
+      "D. 40 amu"
+    ],
+    "answer": 2,
+    "explanation": "Khối lượng phân tử CO₂ = 12 + (2 × 16) = 12 + 32 = 44 amu."
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "type_label": "Trắc nghiệm 1 lựa chọn",
+    "question": "Chất nào sau đây là hợp chất vô cơ quan trọng có trong muối ăn hàng ngày?",
+    "options": [
+      "A. Sodium chloride (NaCl)",
+      "B. Calcium carbonate (CaCO₃)",
+      "C. Saccharose (C₁₂H₂₂O₁₁)",
+      "D. Glucose (C₆H₁₂O₆)"
+    ],
+    "answer": 0,
+    "explanation": "Sodium chloride (NaCl) là thành phần chính của muối ăn, gồm 2 nguyên tố Sodium (Na) và Chlorine (Cl)."
+  },
+  {
+    "id": 11,
+    "type": "fill",
+    "type_label": "Điền khuyết",
+    "question": "Đơn chất là chất được tạo nên từ duy nhất một ______ hoá học.",
+    "placeholder": "Nhập từ khóa còn thiếu...",
+    "keywords": [
+      "nguyên tố",
+      "nguyen to",
+      "nguyên tố hoá học",
+      "nguyên tố hóa học"
+    ],
+    "explanation": "Đơn chất là chất được tạo nên từ một 'nguyên tố' hoá học."
+  },
+  {
+    "id": 12,
+    "type": "fill",
+    "type_label": "Điền khuyết",
+    "question": "Hợp chất là chất được tạo nên từ ______ hay nhiều nguyên tố hoá học.",
+    "placeholder": "Nhập số hoặc từ...",
+    "keywords": [
+      "hai",
+      "2",
+      "hai nguyên tố",
+      "2 nguyên tố"
+    ],
+    "explanation": "Hợp chất tạo nên từ 'hai' (hoặc 2) hay nhiều nguyên tố hoá học."
+  },
+  {
+    "id": 13,
+    "type": "fill",
+    "type_label": "Điền khuyết",
+    "question": "Đơn vị đo khối lượng phân tử thường được dùng trong KHTN 7 là ______.",
+    "placeholder": "Nhập tên đơn vị...",
+    "keywords": [
+      "amu",
+      "AMU"
+    ],
+    "explanation": "Đơn vị đo khối lượng nguyên tử và phân tử là 'amu' (atomic mass unit)."
+  },
+  {
+    "id": 14,
+    "type": "fill",
+    "type_label": "Điền khuyết",
+    "question": "Phân tử khí nitrogen gồm hai nguyên tử ______ liên kết với nhau.",
+    "placeholder": "Nhập tên nguyên tố...",
+    "keywords": [
+      "nitrogen",
+      "nito",
+      "nitơ"
+    ],
+    "explanation": "Phân tử N₂ gồm hai nguyên tử 'nitrogen' (hoặc nitơ) liên kết với nhau."
+  },
+  {
+    "id": 15,
+    "type": "fill",
+    "type_label": "Điền khuyết",
+    "question": "Phi kim duy nhất ở thể lỏng trong điều kiện thường được nhắc tới trong SGK là ______.",
+    "placeholder": "Nhập tên đơn chất phi kim...",
+    "keywords": [
+      "bromine",
+      "brom",
+      "brôm"
+    ],
+    "explanation": "Bromine (Br₂) là đơn chất phi kim duy nhất ở thể lỏng ở điều kiện thường."
+  },
+  {
+    "id": 16,
+    "type": "fill",
+    "type_label": "Điền khuyết",
+    "question": "Hạt đại diện cho chất và thể hiện đầy đủ tính chất hoá học của chất gọi là ______.",
+    "placeholder": "Nhập tên hạt...",
+    "keywords": [
+      "phân tử",
+      "phan tu"
+    ],
+    "explanation": "Hạt đại diện cho chất chính là 'phân tử'."
+  },
+  {
+    "id": 17,
+    "type": "fill",
+    "type_label": "Điền khuyết",
+    "question": "Khối lượng phân tử bằng ______ khối lượng của các nguyên tử trong phân tử chất đó.",
+    "placeholder": "Nhập từ khóa...",
+    "keywords": [
+      "tổng",
+      "tong",
+      "tổng khối lượng"
+    ],
+    "explanation": "Khối lượng phân tử bằng 'tổng' khối lượng các nguyên tử cấu thành nên nó."
+  },
+  {
+    "id": 18,
+    "type": "fill",
+    "type_label": "Điền khuyết",
+    "question": "Đá vôi có thành phần chính là hợp chất calcium ______ (chứa Ca, C và O).",
+    "placeholder": "Nhập tên hợp chất...",
+    "keywords": [
+      "carbonate",
+      "cacbonat",
+      "carbonat"
+    ],
+    "explanation": "Đá vôi có thành phần chính là calcium carbonate (CaCO₃)."
+  },
+  {
+    "id": 19,
+    "type": "fill",
+    "type_label": "Điền khuyết",
+    "question": "Số lượng các ______ đã biết lớn hơn rất nhiều (hàng chục triệu) so với số lượng đơn chất.",
+    "placeholder": "Nhập loại chất...",
+    "keywords": [
+      "hợp chất",
+      "hop chat"
+    ],
+    "explanation": "Hiện nay các nhà khoa học đã biết đến hàng chục triệu 'hợp chất'."
+  },
+  {
+    "id": 20,
+    "type": "fill",
+    "type_label": "Điền khuyết",
+    "question": "Khí ______ được dùng làm nhiên liệu sạch cho xe buýt, trạm bơm do khi cháy chỉ sinh ra nước.",
+    "placeholder": "Nhập tên khí...",
+    "keywords": [
+      "hydrogen",
+      "hiđro",
+      "hidro"
+    ],
+    "explanation": "Khí hydrogen (H₂) là nguồn nhiên liệu sạch tương lai."
+  },
+  {
+    "id": 21,
+    "type": "match",
+    "type_label": "Ghép cột tương ứng",
+    "question": "Hãy ghép chất với phân loại chất chính xác tương ứng:",
+    "pairs": [
+      {
+        "left": "Kim loại Đồng (Cu)",
+        "right": "Đơn chất kim loại"
+      },
+      {
+        "left": "Khí Oxygen (O₂)",
+        "right": "Đơn chất phi kim"
+      },
+      {
+        "left": "Khí Carbon dioxide (CO₂)",
+        "right": "Hợp chất vô cơ"
+      },
+      {
+        "left": "Khí Helium (He)",
+        "right": "Đơn chất khí hiếm"
+      }
+    ],
+    "explanation": "Đồng là kim loại, Oxygen là phi kim, Helium là khí hiếm, Carbon dioxide là hợp chất gồm C và O."
+  },
+  {
+    "id": 22,
+    "type": "match",
+    "type_label": "Ghép cột tương ứng",
+    "question": "Ghép công thức chất với số lượng nguyên tố tạo nên chất:",
+    "pairs": [
+      {
+        "left": "Khí Ozone (O₃)",
+        "right": "1 nguyên tố hoá học"
+      },
+      {
+        "left": "Nước (H₂O)",
+        "right": "2 nguyên tố hoá học"
+      },
+      {
+        "left": "Calcium carbonate (CaCO₃)",
+        "right": "3 nguyên tố hoá học"
+      },
+      {
+        "left": "Khí Nitrogen (N₂)",
+        "right": "1 nguyên tố hoá học"
+      }
+    ],
+    "explanation": "O₃ và N₂ chỉ tạo từ 1 nguyên tố (O hoặc N). H₂O tạo từ H và O (2 nguyên tố). CaCO₃ tạo từ Ca, C, O (3 nguyên tố)."
+  },
+  {
+    "id": 23,
+    "type": "match",
+    "type_label": "Ghép cột tương ứng",
+    "question": "Ghép chất với khối lượng phân tử tương ứng (H=1, C=12, N=14, O=16):",
+    "pairs": [
+      {
+        "left": "Hydrogen (H₂)",
+        "right": "2 amu"
+      },
+      {
+        "left": "Methane (CH₄)",
+        "right": "16 amu"
+      },
+      {
+        "left": "Nitrogen (N₂)",
+        "right": "28 amu"
+      },
+      {
+        "left": "Oxygen (O₂)",
+        "right": "32 amu"
+      }
+    ],
+    "explanation": "H₂: 2×1=2; CH₄: 12+4=16; N₂: 2×14=28; O₂: 2×16=32 amu."
+  },
+  {
+    "id": 24,
+    "type": "match",
+    "type_label": "Ghép cột tương ứng",
+    "question": "Ghép đơn chất với dạng tồn tại và ứng dụng tiêu biểu:",
+    "pairs": [
+      {
+        "left": "Than chì",
+        "right": "Làm ruột bút chì"
+      },
+      {
+        "left": "Kim cương",
+        "right": "Đồ trang sức, mũi khoan"
+      },
+      {
+        "left": "Đồng",
+        "right": "Lõi dây dẫn điện, đúc tượng"
+      },
+      {
+        "left": "Hydrogen",
+        "right": "Nhiên liệu trạm bơm xe xanh"
+      }
+    ],
+    "explanation": "Đây là các ứng dụng tiêu biểu của đơn chất được nêu trong Hình 5.2 SGK."
+  },
+  {
+    "id": 25,
+    "type": "match",
+    "type_label": "Ghép cột tương ứng",
+    "question": "Ghép nguyên tố với dạng đơn chất được tạo thành từ nó:",
+    "pairs": [
+      {
+        "left": "Nguyên tố Carbon",
+        "right": "Than gỗ, than chì, kim cương"
+      },
+      {
+        "left": "Nguyên tố Phosphorus",
+        "right": "Phosphorus đỏ, phosphorus trắng"
+      },
+      {
+        "left": "Nguyên tố Oxygen",
+        "right": "Khí oxygen (O₂), ozone (O₃)"
+      },
+      {
+        "left": "Nguyên tố Sắt (Iron)",
+        "right": "Kim loại sắt"
+      }
+    ],
+    "explanation": "Một số nguyên tố có thể tạo nên nhiều dạng đơn chất thù hình khác nhau."
+  },
+  {
+    "id": 26,
+    "type": "match",
+    "type_label": "Ghép cột tương ứng",
+    "question": "Ghép hợp chất với phân loại hữu cơ hoặc vô cơ:",
+    "pairs": [
+      {
+        "left": "Đường Glucose (trong quả nho)",
+        "right": "Hợp chất hữu cơ"
+      },
+      {
+        "left": "Đường Saccharose (đường ăn)",
+        "right": "Hợp chất hữu cơ"
+      },
+      {
+        "left": "Muối ăn (Sodium chloride)",
+        "right": "Hợp chất vô cơ"
+      },
+      {
+        "left": "Nước (H₂O)",
+        "right": "Hợp chất vô cơ"
+      }
+    ],
+    "explanation": "Glucose và Saccharose là hợp chất hữu cơ; Muối ăn và Nước là hợp chất vô cơ."
+  },
+  {
+    "id": 27,
+    "type": "match",
+    "type_label": "Ghép cột tương ứng",
+    "question": "Ghép mô tả số lượng nguyên tử trong một phân tử:",
+    "pairs": [
+      {
+        "left": "Phân tử nước (H₂O)",
+        "right": "2 nguyên tử H và 1 nguyên tử O"
+      },
+      {
+        "left": "Phân tử Methane (CH₄)",
+        "right": "1 nguyên tử C và 4 nguyên tử H"
+      },
+      {
+        "left": "Phân tử Carbon dioxide (CO₂)",
+        "right": "1 nguyên tử C và 2 nguyên tử O"
+      },
+      {
+        "left": "Phân tử Nitrogen (N₂)",
+        "right": "2 nguyên tử N liên kết với nhau"
+      }
+    ],
+    "explanation": "Mô hình phân tử Hình 5.3 trong SGK thể hiện liên kết giữa các nguyên tử."
+  },
+  {
+    "id": 28,
+    "type": "match",
+    "type_label": "Ghép cột tương ứng",
+    "question": "Ghép nguyên tố kim loại/phi kim với trạng thái tồn tại ở nhiệt độ phòng:",
+    "pairs": [
+      {
+        "left": "Thuỷ ngân (Mercury)",
+        "right": "Kim loại ở thể lỏng"
+      },
+      {
+        "left": "Sắt (Iron)",
+        "right": "Kim loại ở thể rắn"
+      },
+      {
+        "left": "Bromine",
+        "right": "Phi kim ở thể lỏng"
+      },
+      {
+        "left": "Sulfur (Lưu huỳnh)",
+        "right": "Phi kim ở thể rắn"
+      }
+    ],
+    "explanation": "Thuỷ ngân là kim loại lỏng, Bromine là phi kim lỏng, Sắt rắn, Sulfur rắn."
+  },
+  {
+    "id": 29,
+    "type": "match",
+    "type_label": "Ghép cột tương ứng",
+    "question": "Ghép chất với vai trò trong đời sống:",
+    "pairs": [
+      {
+        "left": "Muối ăn (NaCl)",
+        "right": "Giữ cân bằng nước trong cơ thể"
+      },
+      {
+        "left": "Calcium carbonate (CaCO₃)",
+        "right": "Vật liệu xây dựng, nông nghiệp"
+      },
+      {
+        "left": "Khí Carbon dioxide (CO₂)",
+        "right": "Cần thiết cho quang hợp cây xanh"
+      },
+      {
+        "left": "Khí đốt hydrocarbon",
+        "right": "Cung cấp năng lượng đun nấu, nhiệt lượng"
+      }
+    ],
+    "explanation": "Các ứng dụng thực tế quan trọng của các hợp chất phổ biến trong đời sống."
+  },
+  {
+    "id": 30,
+    "type": "match",
+    "type_label": "Ghép cột tương ứng",
+    "question": "Ghép nguyên tử khối chuẩn (amu) của nguyên tố tương ứng:",
+    "pairs": [
+      {
+        "left": "Hydrogen (H)",
+        "right": "1 amu"
+      },
+      {
+        "left": "Carbon (C)",
+        "right": "12 amu"
+      },
+      {
+        "left": "Nitrogen (N)",
+        "right": "14 amu"
+      },
+      {
+        "left": "Oxygen (O)",
+        "right": "16 amu"
+      }
+    ],
+    "explanation": "Đây là 4 nguyên tử khối cơ bản nhất cần ghi nhớ ở Bài 5 KHTN 7."
+  },
+  {
+    "id": 31,
+    "type": "tf",
+    "type_label": "Nhận định Đúng / Sai",
+    "question": "Tất cả các kim loại đều tồn tại ở thể rắn ở nhiệt độ phòng.",
+    "answer": false,
+    "explanation": "SAI. Thuỷ ngân (Mercury) là một kim loại nhưng tồn tại ở thể lỏng ở nhiệt độ phòng."
+  },
+  {
+    "id": 32,
+    "type": "tf",
+    "type_label": "Nhận định Đúng / Sai",
+    "question": "Một nguyên tố hoá học có thể tạo ra nhiều dạng đơn chất khác nhau.",
+    "answer": true,
+    "explanation": "ĐÚNG. Ví dụ nguyên tố Carbon tạo ra than chì, kim cương; Phosphorus tạo ra phosphorus đỏ, phosphorus trắng."
+  },
+  {
+    "id": 33,
+    "type": "tf",
+    "type_label": "Nhận định Đúng / Sai",
+    "question": "Tên của đơn chất luôn luôn trùng khớp với tên của nguyên tố hoá học tạo nên nó.",
+    "answer": false,
+    "explanation": "SAI. Trừ một số trường hợp, ví dụ khí ozone tạo nên từ oxygen, than chì và kim cương tạo nên từ carbon."
+  },
+  {
+    "id": 34,
+    "type": "tf",
+    "type_label": "Nhận định Đúng / Sai",
+    "question": "Số lượng các đơn chất đã biết hiện nay nhiều hơn rất nhiều so với số lượng hợp chất.",
+    "answer": false,
+    "explanation": "SAI. Chỉ có khoảng hơn 118 nguyên tố hoá học tạo nên vài trăm đơn chất, trong khi có tới hàng chục triệu hợp chất đã biết."
+  },
+  {
+    "id": 35,
+    "type": "tf",
+    "type_label": "Nhận định Đúng / Sai",
+    "question": "Phân tử của đơn chất chỉ gồm các nguyên tử cùng một nguyên tố hoá học liên kết với nhau.",
+    "answer": true,
+    "explanation": "ĐÚNG. Vì đơn chất tạo nên từ 1 nguyên tố hoá học, nên phân tử của đơn chất chỉ chứa các nguyên tử thuộc cùng nguyên tố đó."
+  },
+  {
+    "id": 36,
+    "type": "tf",
+    "type_label": "Nhận định Đúng / Sai",
+    "question": "Khối lượng phân tử của khí Oxygen (O₂) là 16 amu.",
+    "answer": false,
+    "explanation": "SAI. Phân tử khí oxygen gồm 2 nguyên tử O liên kết, nên khối lượng phân tử = 16 × 2 = 32 amu (16 amu chỉ là khối lượng của 1 nguyên tử O)."
+  },
+  {
+    "id": 37,
+    "type": "tf",
+    "type_label": "Nhận định Đúng / Sai",
+    "question": "Khí carbon dioxide (CO₂) và nước (H₂O) đều là các hợp chất.",
+    "answer": true,
+    "explanation": "ĐÚNG. CO₂ tạo từ 2 nguyên tố (C và O), H₂O tạo từ 2 nguyên tố (H và O) nên cả hai đều là hợp chất."
+  },
+  {
+    "id": 38,
+    "type": "tf",
+    "type_label": "Nhận định Đúng / Sai",
+    "question": "Các khí hiếm như Helium, Neon tồn tại ở thể khí và có hạt hợp thành là các nguyên tử tự do, không liên kết thành cụm nhiều nguyên tử.",
+    "answer": true,
+    "explanation": "ĐÚNG. Khí hiếm rất trơ về mặt hoá học và tồn tại ở dạng đơn nguyên tử."
+  },
+  {
+    "id": 39,
+    "type": "tf",
+    "type_label": "Nhận định Đúng / Sai",
+    "question": "Protein, glucose và saccharose đều là các ví dụ về hợp chất vô cơ.",
+    "answer": false,
+    "explanation": "SAI. Protein, glucose và saccharose là các ví dụ điển hình về hợp chất hữu cơ."
+  },
+  {
+    "id": 40,
+    "type": "tf",
+    "type_label": "Nhận định Đúng / Sai",
+    "question": "Khối lượng phân tử của nước (H₂O) nặng hơn khối lượng phân tử của khí methane (CH₄).",
+    "answer": true,
+    "explanation": "ĐÚNG. Khối lượng phân tử của H₂O = 18 amu, còn CH₄ = 16 amu, do đó H₂O nặng hơn CH₄."
+  },
+  {
+    "id": 41,
+    "type": "essay",
+    "type_label": "Tự luận ngắn",
+    "question": "Hãy nêu định nghĩa về đơn chất và lấy 2 ví dụ thực tế về đơn chất mà em biết.",
+    "keywords": [
+      "nguyên tố",
+      "1",
+      "đồng",
+      "oxygen",
+      "kim cương",
+      "than",
+      "hydrogen"
+    ],
+    "sample_answer": "Đơn chất là chất được tạo nên từ một nguyên tố hoá học. Ví dụ: Kim loại đồng (dây điện), khí oxygen (cho hô hấp), than chì (ruột bút chì).",
+    "explanation": "Định nghĩa chính xác cần có: tạo nên từ 1 nguyên tố hoá học; ví dụ kèm theo đúng thực tế."
+  },
+  {
+    "id": 42,
+    "type": "essay",
+    "type_label": "Tự luận ngắn",
+    "question": "Phân tử là gì? Hãy nêu ý nghĩa của phân tử đối với tính chất của chất.",
+    "keywords": [
+      "đại diện",
+      "nguyên tử",
+      "tính chất hoá học",
+      "tính chất hóa học"
+    ],
+    "sample_answer": "Phân tử là hạt đại diện cho chất, gồm một số nguyên tử liên kết với nhau và thể hiện đầy đủ tính chất hoá học của chất đó.",
+    "explanation": "Hai ý then chốt: hạt đại diện cho chất và thể hiện đầy đủ tính chất hoá học của chất."
+  },
+  {
+    "id": 43,
+    "type": "essay",
+    "type_label": "Tự luận ngắn",
+    "question": "Hãy tính khối lượng phân tử của khí carbon dioxide (CO₂). Trình bày rõ các bước tính (Biết C = 12 amu, O = 16 amu).",
+    "keywords": [
+      "44",
+      "12",
+      "16",
+      "32"
+    ],
+    "sample_answer": "Phân tử CO₂ gồm 1 nguyên tử Carbon và 2 nguyên tử Oxygen. Khối lượng phân tử = 12 + (2 × 16) = 12 + 32 = 44 amu.",
+    "explanation": "Kết quả chính xác là 44 amu cùng bước tính tổng các nguyên tử."
+  },
+  {
+    "id": 44,
+    "type": "essay",
+    "type_label": "Tự luận ngắn",
+    "question": "Tại sao than chì và kim cương có tính chất vật lí rất khác nhau nhưng đều được gọi là đơn chất của nguyên tố carbon?",
+    "keywords": [
+      "carbon",
+      "1 nguyên tố",
+      "liên kết",
+      "cấu trúc",
+      "sắp xếp"
+    ],
+    "sample_answer": "Vì cả hai đều chỉ được cấu tạo từ duy nhất một nguyên tố hoá học là Carbon. Sở dĩ chúng có tính chất khác nhau là do cách sắp xếp và liên kết giữa các nguyên tử carbon trong không gian khác nhau.",
+    "explanation": "Cùng tạo từ 1 nguyên tố Carbon nên đều là đơn chất; tính chất khác nhau do cấu trúc tinh thể/liên kết khác nhau."
+  },
+  {
+    "id": 45,
+    "type": "essay",
+    "type_label": "Tự luận ngắn",
+    "question": "So sánh sự khác biệt cơ bản giữa đơn chất và hợp chất về thành phần nguyên tố cấu tạo.",
+    "keywords": [
+      "đơn chất",
+      "1 nguyên tố",
+      "hợp chất",
+      "2",
+      "hai"
+    ],
+    "sample_answer": "Đơn chất được tạo nên từ duy nhất 1 nguyên tố hoá học. Còn hợp chất được tạo nên từ 2 hay nhiều nguyên tố hoá học khác nhau.",
+    "explanation": "Điểm khác biệt then chốt là số lượng nguyên tố hoá học cấu tạo nên chất (1 nguyên tố vs 2 hoặc nhiều nguyên tố)."
+  },
+  {
+    "id": 46,
+    "type": "essay",
+    "type_label": "Tự luận ngắn",
+    "question": "Tính khối lượng phân tử của khí nitrogen (N₂). Biết nguyên tử khối của N là 14 amu.",
+    "keywords": [
+      "28",
+      "14",
+      "amu"
+    ],
+    "sample_answer": "Phân tử nitrogen gồm 2 nguyên tử N liên kết: Khối lượng phân tử = 14 × 2 = 28 amu.",
+    "explanation": "Khối lượng phân tử N₂ = 28 amu."
+  },
+  {
+    "id": 47,
+    "type": "essay",
+    "type_label": "Tự luận ngắn",
+    "question": "Em hãy giải thích vì sao số lượng hợp chất trong tự nhiên lại nhiều hơn rất nhiều lần so với số lượng đơn chất?",
+    "keywords": [
+      "kết hợp",
+      "liên kết",
+      "tỉ lệ",
+      "vô số",
+      "nguyên tố"
+    ],
+    "sample_answer": "Chỉ có hơn 118 nguyên tố hoá học, nhưng các nguyên tử của các nguyên tố khác nhau có thể liên kết với nhau theo vô vàn tỉ lệ và trật tự không gian khác nhau để tạo ra hàng chục triệu hợp chất phong phú.",
+    "explanation": "Nguyên nhân do khả năng liên kết đa dạng theo nhiều tỉ lệ và cấu trúc giữa các nguyên tố với nhau."
+  },
+  {
+    "id": 48,
+    "type": "essay",
+    "type_label": "Tự luận ngắn",
+    "question": "Hãy tính khối lượng phân tử của phân tử muối ăn (NaCl). Cho biết Na = 23 amu, Cl = 35.5 amu.",
+    "keywords": [
+      "58.5",
+      "23",
+      "35.5",
+      "amu"
+    ],
+    "sample_answer": "Khối lượng phân tử NaCl = 23 + 35.5 = 58.5 amu.",
+    "explanation": "Kết quả chính xác là 58.5 amu."
+  },
+  {
+    "id": 49,
+    "type": "essay",
+    "type_label": "Tự luận ngắn",
+    "question": "Nêu vai trò quan trọng của nước (H₂O) và khí oxygen (O₂) đối với sự sống của con người và sinh vật.",
+    "keywords": [
+      "sống",
+      "hô hấp",
+      "duy trì",
+      "trao đổi chất",
+      "cơ thể"
+    ],
+    "sample_answer": "Khí oxygen duy trì sự hô hấp và sự cháy. Nước là dung môi hòa tan, tham gia quá trình trao đổi chất và duy trì sự cân bằng nội môi cho toàn bộ sinh vật trên Trái Đất.",
+    "explanation": "Oxygen phục vụ hô hấp; Nước nuôi dưỡng tế bào, trao đổi chất và duy trì sự sống."
+  },
+  {
+    "id": 50,
+    "type": "essay",
+    "type_label": "Tự luận ngắn",
+    "question": "Phân tử đường glucose có công thức gồm 6 nguyên tử C, 12 nguyên tử H và 6 nguyên tử O. Hãy tính khối lượng phân tử glucose (C=12, H=1, O=16 amu).",
+    "keywords": [
+      "180",
+      "72",
+      "12",
+      "96",
+      "amu"
+    ],
+    "sample_answer": "Khối lượng phân tử glucose = (6 × 12) + (12 × 1) + (6 × 16) = 72 + 12 + 96 = 180 amu.",
+    "explanation": "Khối lượng phân tử glucose C₆H₁₂O₆ = 180 amu."
+  }
+]
